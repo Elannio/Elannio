@@ -131,11 +131,11 @@ Olá! Me chamo Elannio e sou desenvolvedor fullstack, já trabalhei com várias 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elannio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="GitHub Stats" 
+    height="250" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elannio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_forks=true" 
+/>
 
 </p>
