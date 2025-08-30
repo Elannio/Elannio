@@ -125,7 +125,7 @@ Olá! Me chamo Elannio e sou desenvolvedor fullstack, já trabalhei com várias 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Elannio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
