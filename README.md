@@ -132,10 +132,11 @@ Olá! Me chamo Elannio e sou desenvolvedor fullstack, já trabalhei com várias 
 
 <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GameScore Stats" 
     height="250" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elannio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_forks=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elannio&repo=GameScoree/GameScore&theme=tokyonight&layout=compact&custom_title=GameScore&langs_count=9" 
 />
+
 
 </p>
